@@ -9,5 +9,4 @@
 |5|100000|10000|0.2|-538410101.56|-202046181.05|
 |6|100000|10000|0.3|-841100093.06|-316753946.60|
 
-Results: Cost is the lowest for the instance of 2 since fitness= -cost .
 
